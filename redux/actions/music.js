@@ -1,4 +1,4 @@
-import TrackPlayer from 'react-native-track-player';
+// import TrackPlayer from 'react-native-track-player';
 import { ALL_TRACKS } from './actionTypes';
 
 export const getAllTracks = () => async dispatch => {
